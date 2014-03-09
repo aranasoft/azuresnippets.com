@@ -3,6 +3,9 @@
 /generated
 .sass-cache
 
+## Bower ###
+/vendor/components
+
 # Created by http://www.gitignore.io
 
 ### Node ###

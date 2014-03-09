@@ -9,7 +9,7 @@ module.exports = (lineman) ->
       options:
         author: "Arana Software"
         title: "Azure Snippets"
-        description: "where I post all my brilliant ideas"
+        description: "A collection of snippets related to Windows Azure"
         url: "http://www.azuresnippets.com"
         rssCount: 10 #<-- remove, comment, or set to zero to disable RSS generation
         #disqus: "my_disqus_name" #<-- uncomment and set your disqus account name to enable disqus support

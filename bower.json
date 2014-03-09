@@ -1,0 +1,24 @@
+{
+  "name": "azuresnippets.com",
+  "version": "0.0.0",
+  "homepage": "http://www.azuresnippets.com",
+  "authors": [
+    "Arana Software"
+  ],
+  "license": "BSD-3-Clause",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/components/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "1.11",
+    "bootstrap": "~3.1.1",
+    "font-awesome": "~4.0.3"
+  }
+}
