@@ -1,9 +1,12 @@
 {
   "name": "azuresnippets",
+  "title": "Azure Snippets",
   "description": "An HTML/JS/CSS app",
   "version": "0.0.1",
   "private": true,
-  "author": "John Doe",
+  "author": {
+    "company": "Arana Software"
+  },
   "devDependencies": {
     "lineman": "~0.27.0",
     "lineman-blog": "0.0.3"
@@ -11,5 +14,26 @@
   "scripts": {
     "start": "lineman run",
     "test": "lineman spec-ci"
-  }
+  },
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "lineman": "~0.27.2",
+    "lineman-blog": "~0.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aranasoft/azuresnippets.com.git"
+  },
+  "keywords": [
+    "azure",
+    "snippets",
+    "videos",
+    "waws"
+  ],
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/aranasoft/azuresnippets.com/issues"
+  },
+  "homepage": "http://www.azuresnippets.com",
+  "private": true
 }
